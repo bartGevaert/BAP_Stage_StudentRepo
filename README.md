@@ -1,8 +1,8 @@
 #Informatie Stage
 
 ## Naam:
-
 * Gevaert Bart
+
 ## Titel:
 
 * Optimaliseren herstelmanager
