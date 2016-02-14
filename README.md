@@ -5,7 +5,7 @@
 
 ## Titel:
 * Optimaliseren herstelmanager
-* 
+
 ## Promotors:
 * Craens Jeroen
 * Dams Tim
