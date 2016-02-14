@@ -1,7 +1,10 @@
-Voorbeeld repo.
-Gelieve deze minimale mappenstructuur te volgen.
-Plaats in dit document volgende informatie:
-* Je naam
-* Titel bachelorproef
-* Promotors
-* Abstract/pitch
+#Informatie Stage
+## Naam:
+* Gevaert Bart
+## Titel:
+* Optimaliseren herstelmanager
+## Promotors:
+* Craens Jeroen
+* Dams Tim
+## Abstract/pitch:
+...
